@@ -1,6 +1,7 @@
 import logo from './logo.svg';
 import './App.css';
 import Timeline from './Components/Pages/Timeline'
+import Firebase from './Services/Firebase'
 
 function App() {
   return (
